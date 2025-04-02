@@ -2023,4 +2023,9 @@ textarea.input-field {
   .nav-open-btn .line {
     width: 20px; /* Adjusted for smaller screens */
   }
+
+  .section-subtitle::after {
+    content: none !important;
+    display: none !important;
+  }
 }
