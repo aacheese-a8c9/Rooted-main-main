@@ -2012,20 +2012,20 @@ textarea.input-field {
 
 @media (max-width: 768px) {
   .header {
-    height: 45px; /* Further reduced height for smaller screens */
+    height: 45px; 
   }
 
   .navbar {
-    max-width: 250px; /* Adjusted for smaller screens */
+    max-width: 250px; 
     padding-inline: 15px;
   }
 
   .nav-open-btn .line {
-    width: 20px; /* Adjusted for smaller screens */
+    width: 20px
   }
 
   .section-subtitle::after {
-    content: none !important;
-    display: none !important;
+    content: none; 
+    display: none;
   }
 }
