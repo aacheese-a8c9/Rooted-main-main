@@ -302,6 +302,7 @@ body.nav-active {
   text-transform: uppercase;
   letter-spacing: var(--letterSpacing-2);
   margin-block-end: 12px;
+  font-size: 2.5rem;
 }
 
 .section-subtitle::after {
@@ -321,7 +322,7 @@ body.nav-active {
   letter-spacing: var(--letterSpacing-5);
   max-width: max-content;
   border: 2px solid var(--gold);
-  padding: 12px 45px;
+  padding: 5px 5px;
   overflow: hidden;
   z-index: 1;
 }
@@ -881,7 +882,7 @@ body.nav-active {
 
 .hero-btn img {
   margin-inline: auto;
-  margin-block-end: 6px;
+  margin-block-end:1px;
 }
 
 .hero-btn .span {
@@ -1819,7 +1820,7 @@ textarea.input-field {
   .footer-brand {
     grid-column: auto;
     order: 1;
-    padding-block: 100px;
+    padding-block: px;
   }
 
   .footer-list:last-child {
